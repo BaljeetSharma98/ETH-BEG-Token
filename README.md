@@ -16,8 +16,8 @@ pragma solidity 0.8.18;
 */
 contract MyToken {
     // Information about the token
-    string public name = "PIYUSH";
-    string public abbreviation = "PYS";
+    string public name = "POKYYY";
+    string public abbreviation = "PKY";
     uint public totalTokens = 0;
 
     // A list to keep track of how many tokens each address has
